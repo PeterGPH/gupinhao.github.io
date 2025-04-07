@@ -1,5 +1,5 @@
 ---
-title: "Teaching asistant experience 1"
+title: "Teaching assistant experience 1"
 collection: teaching
 type: "Undergraduate course CHEM 442 Physical Chemistry I"
 permalink: /teaching/2022-fall-teaching-1

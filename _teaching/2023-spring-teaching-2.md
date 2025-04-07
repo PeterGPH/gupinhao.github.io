@@ -1,5 +1,5 @@
 ---
-title: "Teaching asistant experience 2"
+title: "Teaching assistant experience 2"
 collection: teaching
 type: "Undergraduate course CHEM 440  Principles of Physical Chemistry"
 permalink: /teaching/2023-spring-teaching-1
